@@ -1,0 +1,23 @@
+body {
+	background:#999;
+	font-family:  arial;
+}
+
+a, li {
+	color: green; 
+}
+
+
+
+
+h1,h2, {
+	color: #777;
+	background: #666;
+	padding: 20px;
+}
+
+.secondarylolol {
+	background: none;
+	color: #777;
+
+}
